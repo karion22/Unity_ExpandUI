@@ -1,0 +1,18 @@
+{
+    "name": "karionexpandui_asm",
+    "rootNamespace": "",
+    "references": [
+        "GUID:23ebb1b200e926b439016cb1d598ed3a",
+        "GUID:2bafac87e7f4b9b418d9448d219b01ab",
+        "GUID:21b0c8d1703a94250bfac916590cea4f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
