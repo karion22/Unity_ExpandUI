@@ -1,0 +1,21 @@
+{
+    "name": "karionexpandui_editor_asm",
+    "rootNamespace": "",
+    "references": [
+        "karionutility_assembly",
+        "karionexpandui_asm",
+        "UnityEngine.UI",
+        "Unity.VisualScripting.Core"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
